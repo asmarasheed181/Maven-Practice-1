@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-30T16:02:28 IST" name="Suite" finished-at="2023-08-30T16:03:06 IST" duration-ms="38001">
+    <groups>
+    </groups>
+    <test started-at="2023-08-30T16:02:28 IST" name="Test" finished-at="2023-08-30T16:03:06 IST" duration-ms="38001">
+      <class name="Testing.BeforeClassPractice">
+        <test-method is-config="true" signature="Initialization()[pri:0, instance:Testing.BeforeClassPractice@18d87d80]" started-at="2023-08-30T16:02:28 IST" name="Initialization" finished-at="2023-08-30T16:02:35 IST" duration-ms="6945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+        <test-method signature="Flipkartflights()[pri:1, instance:Testing.BeforeClassPractice@18d87d80]" started-at="2023-08-30T16:02:35 IST" name="Flipkartflights" finished-at="2023-08-30T16:02:39 IST" duration-ms="4363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkartflights -->
+        <test-method signature="FlipkartFurniture()[pri:2, instance:Testing.BeforeClassPractice@18d87d80]" started-at="2023-08-30T16:02:39 IST" name="FlipkartFurniture" finished-at="2023-08-30T16:02:43 IST" duration-ms="4163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlipkartFurniture -->
+        <test-method is-config="true" signature="Cleanup()[pri:0, instance:Testing.BeforeClassPractice@18d87d80]" started-at="2023-08-30T16:02:43 IST" name="Cleanup" finished-at="2023-08-30T16:02:44 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cleanup -->
+      </class> <!-- Testing.BeforeClassPractice -->
+      <class name="Testing.BeforeMethodPractice">
+        <test-method is-config="true" signature="Initialization()[pri:0, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:02:44 IST" name="Initialization" finished-at="2023-08-30T16:02:49 IST" duration-ms="5058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+        <test-method signature="MyntraSearch()[pri:1, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:02:49 IST" name="MyntraSearch" finished-at="2023-08-30T16:02:51 IST" duration-ms="2216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyntraSearch -->
+        <test-method is-config="true" signature="Cleanup()[pri:0, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:02:51 IST" name="Cleanup" finished-at="2023-08-30T16:02:51 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cleanup -->
+        <test-method is-config="true" signature="Initialization()[pri:0, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:02:51 IST" name="Initialization" finished-at="2023-08-30T16:02:55 IST" duration-ms="4353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+        <test-method signature="Myntra()[pri:2, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:02:55 IST" name="Myntra" finished-at="2023-08-30T16:02:58 IST" duration-ms="2182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Myntra -->
+        <test-method is-config="true" signature="Cleanup()[pri:0, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:02:58 IST" name="Cleanup" finished-at="2023-08-30T16:02:58 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cleanup -->
+        <test-method is-config="true" signature="Initialization()[pri:0, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:02:58 IST" name="Initialization" finished-at="2023-08-30T16:03:03 IST" duration-ms="5373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+        <test-method signature="Myntrawomen()[pri:3, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:03:03 IST" name="Myntrawomen" finished-at="2023-08-30T16:03:05 IST" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Myntrawomen -->
+        <test-method is-config="true" signature="Cleanup()[pri:0, instance:Testing.BeforeMethodPractice@2c35e847]" started-at="2023-08-30T16:03:05 IST" name="Cleanup" finished-at="2023-08-30T16:03:06 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cleanup -->
+      </class> <!-- Testing.BeforeMethodPractice -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
